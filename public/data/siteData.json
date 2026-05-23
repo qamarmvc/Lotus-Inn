@@ -52,18 +52,15 @@
           "href": "/gallery"
         },
         {
-          "label": "Amenities",
-          "href": "/amenities"
-        },
-        {
           "label": "Contact Us",
           "href": "/contact"
         }
       ],
       "contact": {
         "address": "Kotli Rd, New Mirpur City, Azad Jammu And Kashmir, 10250",
-        "phone": "+92 123 456 7890",
-        "email": "info@lotusinn.com"
+        "phone": "+92 346 3260347",
+        "landline": "058274 39595",
+        "email": "info@lotusinnguesthouse.com"
       },
       "socials": [
         {
@@ -105,21 +102,21 @@
       "subtitle": "Relax in Our Stylish Accommodations",
       "cards": [
         {
-          "image": "https://capitalgrandeguesthouse.com/wp-content/uploads/2026/02/2ed4ac48-45ee-4a35-b75e-61a12a7a5631-1024x768.jpg",
+          "image": "/images/DSC_0260.jpg",
           "title": "Deluxe Room",
           "price": "From PKR 5,000 / Night",
           "link": "/room/deluxe",
           "linkLabel": "View Details"
         },
         {
-          "image": "https://www.orioleguesthouse.com/assets/img/rooms/1623648535.jpg",
+          "image": "/images/DSC_0264.jpg",
           "title": "Executive Room",
           "price": "From PKR 8,000 / Night",
           "link": "/room/family",
           "linkLabel": "View Details"
         },
         {
-          "image": "https://capitalgrandeguesthouse.com/wp-content/uploads/2026/02/a95c53dd-9e3d-435f-96a4-53ec037f2aeb-1024x768.jpg",
+          "image": "/images/DSC_0267.jpg",
           "title": "Standard Room",
           "price": "From PKR 9,000 / Night",
           "link": "/room/standard",
@@ -157,10 +154,10 @@
       "title": "Photo Gallery",
       "subtitle": "Explore Our Guest House",
       "images": [
-        "https://themes.getmotopress.com/albatross/wp-content/uploads/sites/37/2020/11/standard-single-room-920x650.jpg",
-        "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
-        "https://themes.getmotopress.com/albatross/wp-content/uploads/sites/37/2020/11/comfort-triple-room-920x650.jpg",
-        "https://images.unsplash.com/photo-1493809842364-78817add7ffb"
+        "/images/DSC_0236.jpg",
+        "/images/DSC_0266.jpg",
+        "/images/DSC_0263.jpg",
+        "/images/IMG_3424.jpg"
       ]
     },
     "reviews": {
@@ -202,21 +199,21 @@
       "subtitle": "Tips, Travel Guides & Updates",
       "posts": [
         {
-          "image": "https://orioleluxuryhotel.com/wp-content/uploads/2015/08/547643404.jpg",
+          "image": "/images/IMG_1595.jpg",
           "title": "Discover Comfort and Elegance at Lotus Inn",
           "excerpt": "Explore the most beautiful attractions and must-visit places during...",
           "link": "/rooms",
           "linkLabel": "Read More"
         },
         {
-          "image": "https://cdn-hotelone.hotelmall35.pk/uploads/2025/04/suite_img.webp",
+          "image": "/images/DSC_0271.jpg",
           "title": "Travel Tips for Comfortable Stay",
           "excerpt": "Make your trip stress-free with these simple and effective travel tips.",
           "link": "/amenities",
           "linkLabel": "Read More"
         },
         {
-          "image": "https://cdn-hotelone.hotelmall35.pk/uploads/2025/04/executive_rooms_img-600x377.webp",
+          "image": "/images/DSC_0242.JPG",
           "title": "Why Choose Lotus Inn Guest House?",
           "excerpt": "Discover what makes Lotus Inn the best guest house in Mirpur.",
           "link": "/book-now",
@@ -237,8 +234,8 @@
     },
     "intro": {
       "images": [
-        "https://capitalgrandeguesthouse.com/wp-content/uploads/2026/02/2ed4ac48-45ee-4a35-b75e-61a12a7a5631-1024x768.jpg",
-        "https://capitalgrandeguesthouse.com/wp-content/uploads/2026/02/a95c53dd-9e3d-435f-96a4-53ec037f2aeb-1024x768.jpg"
+        "/images/DSC_0233.jpg",
+        "/images/DSC_0232.jpg"
       ],
       "title": "Welcome to Lotus Inn Guest House",
       "text": "Lotus Inn offers a perfect blend of comfort, elegance, and affordability. Located in the heart of Mirpur, we provide a peaceful environment for families, business travelers, and tourists.",
@@ -286,17 +283,17 @@
       "title": "Rooms & Suites",
       "cards": [
         {
-          "image": "https://orioleluxuryhotel.com/wp-content/uploads/2015/08/547643404.jpg",
+          "image": "/images/DSC_0260.jpg",
           "title": "Deluxe Room",
           "price": "Rs 7,000 / night"
         },
         {
-          "image": "https://cdn-hotelone.hotelmall35.pk/uploads/2025/04/suite_img.webp",
+          "image": "/images/DSC_0266.jpg",
           "title": "Family Room",
           "price": "Rs 9,000 / night"
         },
         {
-          "image": "https://cdn-hotelone.hotelmall35.pk/uploads/2025/04/executive_rooms_img-600x377.webp",
+          "image": "/images/DSC_0271.jpg",
           "title": "Standard Room",
           "price": "Rs 4,500 / night"
         }
@@ -308,7 +305,7 @@
       "name": "Ahmed Raza"
     },
     "hospitality": {
-      "image": "https://themes.getmotopress.com/luviana/wp-content/uploads/sites/27/2019/06/classic-double-room-1170x780.jpg",
+      "image": "/images/IMG_3417.jpg",
       "title": "Our Hospitality",
       "text": "We focus on providing excellent service, modern facilities, and a relaxing environment for every guest.",
       "items": [
@@ -320,10 +317,10 @@
     "gallery": {
       "title": "Photo Gallery",
       "images": [
-        "https://themes.getmotopress.com/luviana/wp-content/uploads/sites/27/2019/07/about-rooms-2-1024x692.jpg",
-        "https://www.orioleguesthouse.com/assets/img/rooms/1623648535.jpg",
-        "https://capitalgrandeguesthouse.com/wp-content/uploads/2026/02/2ed4ac48-45ee-4a35-b75e-61a12a7a5631-1024x768.jpg",
-        "https://themes.getmotopress.com/albatross/wp-content/uploads/sites/37/2020/11/standard-single-room-920x650.jpg"
+        "/images/DSC_0271.jpg",
+        "/images/DSC_0267.jpg",
+        "/images/DSC_0260.jpg",
+        "/images/DSC_0242.jpg"
       ]
     }
   },
@@ -352,28 +349,52 @@
     ],
     "images": [
       {
-        "src": "https://kinsley.bslthemes.com/city/wp-content/uploads/sites/6/2021/12/rom-pic-5-1536x1024.jpg",
+        "src": "/images/DSC_0271.jpg",
         "category": "room"
       },
       {
-        "src": "https://kinsley.bslthemes.com/city/wp-content/uploads/sites/6/2021/12/rom-pic-3-1536x1019.jpg",
+        "src": "/images/DSC_0232.jpg",
+        "category": "lobby"
+      },
+            {
+        "src": "/images/DSC_0242.jpg",
+        "category": "lobby"
+      },
+      {
+        "src": "/images/DSC_0236.jpg",
+        "category": "lobby"
+      },
+            {
+        "src": "/images/DSC_0269.jpg",
+        "category": "room"
+      },
+            {
+        "src": "/images/IMG_3465.jpg",
+        "category": "room"
+      },
+            {
+        "src": "/images/IMG_3471.jpg",
         "category": "room"
       },
       {
-        "src": "https://kinsley.bslthemes.com/city/wp-content/uploads/sites/6/2023/08/k-slide-3-1536x878.jpg",
-        "category": "lobby"
+        "src": "/images/DSC_0267.jpg",
+        "category": "room"
       },
       {
-        "src": "https://capitalgrandeguesthouse.com/wp-content/uploads/2026/02/2ed4ac48-45ee-4a35-b75e-61a12a7a5631-1024x768.jpg",
-        "category": "lobby"
+        "src": "/images/DSC_0233.jpg",
+        "category": "restaurant"
       },
-      {
-        "src": "https://www.orioleguesthouse.com/assets/img/rooms/1623648535.jpg",
+        {
+        "src": "/images/IMG_3424.jpg",
+        "category": "restaurant"
+      },
+        {
+        "src": "/images/IMG_3417.jpg",
         "category": "restaurant"
       },
       {
-        "src": "https://capitalgrandeguesthouse.com/wp-content/uploads/2026/02/a95c53dd-9e3d-435f-96a4-53ec037f2aeb-1024x768.jpg",
-        "category": "restaurant"
+        "src": "/images/DSC_0260.jpg",
+        "category": "room"
       }
     ],
     "stats": [
@@ -508,11 +529,11 @@
       "items": [
         {
           "icon": "fa-solid fa-phone-volume",
-          "value": "+92 123 456 7890"
+          "value": "+92 346 3260347"
         },
         {
           "icon": "fa-solid fa-envelope",
-          "value": "info@lotusinn.com"
+          "value": "info@lotusinnguesthouse.com"
         },
         {
           "icon": "fa-solid fa-location-dot",
@@ -541,12 +562,12 @@
       {
         "icon": "fa-solid fa-phone-volume",
         "title": "Call Anytime",
-        "text": "+92 123 456 7890"
+        "text": "+92 346 3260347"
       },
       {
         "icon": "fa-solid fa-envelope-open-text",
         "title": "Email Support",
-        "text": "info@lotusinn.com"
+        "text": "info@lotusinnguesthouse.com"
       }
     ],
     "form": {
@@ -587,15 +608,15 @@
       "rows": [
         {
           "day": "Monday - Friday",
-          "time": "9:00 AM - 10:00 PM"
+          "time": "24/7 Available"
         },
         {
           "day": "Saturday",
-          "time": "10:00 AM - 11:00 PM"
+          "time": "Available"
         },
         {
           "day": "Sunday",
-          "time": "11:00 AM - 9:00 PM"
+          "time": "Available"
         },
         {
           "day": "Bookings & WhatsApp",

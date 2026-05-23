@@ -22,7 +22,7 @@
     "masterRooms": [
       {
         "slug": "deluxe",
-        "image": "https://orioleluxuryhotel.com/wp-content/uploads/2025/05/547643270-270x270.jpg",
+        "image": "/images/DSC_0271.jpg",
         "tag": "Twin Room",
         "title": "Twin Bedroom",
         "description": "Comfortable room with two single beds,Wi-Fi,private bath,and LED TV.",
@@ -46,7 +46,7 @@
       },
       {
         "slug": "family",
-        "image": "https://orioleluxuryhotel.com/wp-content/uploads/2015/10/547643272-270x270.jpg",
+        "image": "/images/DSC_0260.jpg",
         "tag": "Family Room",
         "title": "Premium Family Room",
         "description": "Perfect for families with double & single beds, modern facilities.",
@@ -70,7 +70,7 @@
       },
       {
         "slug": "standard",
-        "image": "https://orioleluxuryhotel.com/wp-content/uploads/2015/08/433708744-270x270.jpg",
+        "image": "/images/DSC_0267.jpg",
         "tag": "Deluxe",
         "title": "Double Deluxe Room",
         "description": "Elegant room with luxury bed, modern interior and peaceful stay.",
@@ -97,7 +97,7 @@
     "availableRooms": [
       {
         "slug": "deluxe",
-        "image": "https://kinsley.bslthemes.com/city/wp-content/uploads/sites/6/2021/12/rom-pic-5-1536x1024.jpg",
+        "image": "/images/IMG_3471.jpg",
         "tag": "Deluxe",
         "title": "Deluxe Room",
         "description": "Spacious deluxe room with modern interior and luxury feel.",
@@ -113,7 +113,7 @@
       },
       {
         "slug": "family",
-        "image": "https://kinsley.bslthemes.com/city/wp-content/uploads/sites/6/2021/12/rom-pic-3-1536x1019.jpg",
+        "image": "/images/IMG_3465.jpg",
         "tag": "Family",
         "title": "Family Room",
         "description": "Perfect for families with multiple beds and full comfort.",
@@ -129,7 +129,7 @@
       },
       {
         "slug": "standard",
-        "image": "https://kinsley.bslthemes.com/city/wp-content/uploads/sites/6/2023/08/k-slide-3-1536x878.jpg",
+        "image": "/images/DSC_0264.jpg",
         "tag": "Standard",
         "title": "Standard Room",
         "description": "Affordable and comfortable stay for short visits.",
